@@ -10,7 +10,7 @@
     "src/"
   ],
   "name": "position-map-text-to-markdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Map rendered text/html position to Markdown position.",
   "main": "lib/position-map-text-to-markdown.js",
   "scripts": {
