@@ -2,6 +2,8 @@
 
 Map rendered text/html position to Markdown position.
 
+- Find the original position in Markdown from html text.
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
